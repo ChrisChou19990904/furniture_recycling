@@ -6,7 +6,7 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 
 // https://vite.dev/config/
 export default defineConfig({
-  //base:'/furniture_recycling/',
+  base:'/furniture_recycling/',
   plugins: [
     vue(),
     vueDevTools(),

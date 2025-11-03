@@ -50,7 +50,7 @@ const routes = [
 
 const router = createRouter({
     // 使用 history 模式
-    history: createWebHistory(),
+    history: createWebHistory('/furniture_recycling/'),
     routes,
 });
 

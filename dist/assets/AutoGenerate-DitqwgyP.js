@@ -1,0 +1,1 @@
+import{_ as a,c as o,a as t,o as s}from"./index-DfEleXUs.js";const c={class:"auto-generate-container"},r={__name:"AutoGenerate",setup(n){return(_,e)=>(s(),o("div",c,[...e[0]||(e[0]=[t("div",{class:"placeholder-box"},[t("p",{class:"placeholder-text"},"新功能敬請期待")],-1)])]))}},p=a(r,[["__scopeId","data-v-0c48eee8"]]);export{p as default};
